@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "177c7f78867cba36",
+    "id": "f00203c0acdb4021",
     "type": "split",
     "children": [
       {
-        "id": "89627706003cfd21",
+        "id": "a197d29b09611c26",
         "type": "tabs",
         "children": [
           {
-            "id": "58e14e1c0a7447ef",
+            "id": "e0f202b3f6d2a4e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Sawler/Section 3/24. Error checking/24.1 Error checking.md",
+                "file": "English/0.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24.1 Error checking"
-            }
-          },
-          {
-            "id": "bf21de395d1e10cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trevor Sawler/Section 3/22. Making our application module-ready/22. Making our application module-ready.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22. Making our application module-ready"
+              "title": "0.1"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "55bb5cb05d475340",
+    "id": "119fc05fe648f6e8",
     "type": "split",
     "children": [
       {
-        "id": "516346b723b4f6ca",
+        "id": "af3f10e7447ed423",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bd8a8438fcae7a",
+            "id": "2d48ebe7ff0c29b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "a858345c27a9d99c",
+            "id": "8425adb5ab6d5215",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "5c641203d56f8b50",
+            "id": "a7322f472b11aad1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5071449279785
+    "width": 300
   },
   "right": {
-    "id": "50c676e32eae7c6c",
+    "id": "a80944f5c4543c6b",
     "type": "split",
     "children": [
       {
-        "id": "c32561161a697925",
+        "id": "8847d7b0c87c347f",
         "type": "tabs",
         "children": [
           {
-            "id": "af4c8d4fbe53c612",
+            "id": "0a066764b46d4cd9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang-Crash-Course-by-Gemini/1. Golang Fundamental Part 1 (Golang Refinements)/6. Working with Strings and Runes.md",
+                "file": "English/0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Working with Strings and Runes"
+              "title": "Backlinks for 0.1"
             }
           },
           {
-            "id": "60f459de2a281829",
+            "id": "05837f1f02363d7f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0/0..md",
+                "file": "English/0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0."
+              "title": "Outgoing links from 0.1"
             }
           },
           {
-            "id": "adf1206919fcae5d",
+            "id": "2cce2c897ed1d68f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,82 +137,74 @@
             }
           },
           {
-            "id": "f6f82d2200b13b08",
+            "id": "16bb6ef0179777cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang-Crash-Course-by-Gemini/1. Golang Fundamental Part 1 (Golang Refinements)/6. Working with Strings and Runes.md",
+                "file": "English/0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Working with Strings and Runes"
+              "title": "Outline of 0.1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 581.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a9bd8a8438fcae7a",
+  "active": "e0f202b3f6d2a4e2",
   "lastOpenFiles": [
+    "English/13.md",
+    "English/0.1.md",
+    "English/0.md",
+    "English/12.md",
+    "English/11.md",
+    "English/10.md",
+    "English/9.md",
+    "English/8.md",
+    "English/7.md",
+    "English/6.md",
+    "English/5.md",
+    "English/4.md",
+    "English/3.md",
+    "English/2.md",
+    "English/1.md",
+    "DSA for kid/Selection Sort.md",
+    "English",
+    "DSA for kid/Bubble sort.md",
     "Trevor Sawler/Section 3/24. Error checking/24. Error checking.md",
+    "DSA for kid",
     "Trevor Sawler/Section 3/24. Error checking/24.1 Error checking.md",
-    "Trevor Sawler/Section 3/24. Error checking",
     "Trevor Sawler/Section 3/23. Functions and handlers/Untitled.md",
-    "Building Modern Web Application With Go/24. Error checking/main.go",
-    "Building Modern Web Application With Go/24. Error checking/go.mod",
-    "Building Modern Web Application With Go/24. Error checking",
-    "Building Modern Web Application With Go/New folder",
     "Trevor Sawler/Section 3/22. Making our application module-ready/22. Making our application module-ready.md",
-    "Building Modern Web Application With Go/23/main.go",
-    "Building Modern Web Application With Go/23/go.mod",
-    "Building Modern Web Application With Go/23",
-    "Building Modern Web Application With Go/21-22 - Copy/main.go",
-    "Building Modern Web Application With Go/21-22 - Copy/go.mod",
-    "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.2.md",
-    "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.1 Making a Hello, World web application.md",
     "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.5.md",
     "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.4.md",
     "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.3. slash is path.md",
-    "Books by Age Group.md",
-    "Trevor Sawler/Section 3/21. Making a Hello, World web application/21. Making a Hello, World web application.md",
-    "Golang-Crash-Course-by-Gemini/1. Golang Fundamental Part 1 (Golang Refinements)/3. Variable Declaration.md",
-    "Trevor Sawler/Section 3/20. How web applications work - the request-response lifecycle/20. How web applications work - the request-response lifecycle.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/17. Channels.md",
-    "Trevor Sawler/Section 3/20.02.md",
-    "Trevor Sawler/Section 3/20.02 How web applications work - the request-response lifecycle.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/10.1.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/19. Writing Tests in Go.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/18. Reading and Writing JSON.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/17.1 Kid langauge.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/16.1.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/16. Packages.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/15. Interfaces.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/14. Loops and ranging over data.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/13.1 Decision Structures.md",
-    "Trevor Sawler/Section 2 - Overview of the Go langauge/13.1.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas"
+    "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.2.md",
+    "Trevor Sawler/Section 3/21. Making a Hello, World web application/21.1 Making a Hello, World web application.md",
+    "Trevor Sawler/Section 3/24. Error checking",
+    "Trevor Sawler/Section 3/23. Functions and handlers",
+    "Trevor Sawler/Section 3/22. Making our application module-ready",
+    "Trevor Sawler/Section 3/21. Making a Hello, World web application",
+    "Trevor Sawler/Section 3/20. How web applications work - the request-response lifecycle",
+    "Trevor Sawler/Section 3",
+    "Trevor Sawler/Section 2 - Overview of the Go langauge",
+    "Trevor Sawler"
   ]
 }
