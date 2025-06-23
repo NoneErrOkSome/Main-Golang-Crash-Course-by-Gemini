@@ -217,6 +217,12 @@
   },
   "active": "2d48ebe7ff0c29b9",
   "lastOpenFiles": [
+    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/8. Energy breathing session 2.md",
+    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/7. Subtle VS strong breathing practices.md",
+    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/6. Energy & Consciousness Awakening Breath 1 - `Initiation session`.md",
+    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system",
+    "Breathwork  Meditation course  \"Breath is Life\"",
+    "AngularWork/Full Angular Development Setup on iMac.md",
     "2. Golang Fundamental Part 2 (Golang Refinements)/31. Custom Types - Structs.md",
     "2. Golang Fundamental Part 2 (Golang Refinements)/25. Anonymous Functions and Closures.md",
     "2. Golang Fundamental Part 2 (Golang Refinements)/27. Reviewing Functions - Best Practices and defer Statement.md",
@@ -239,10 +245,6 @@
     "2. Golang Fundamental Part 2 (Golang Refinements)/30. Collections - Maps (Key-Value Pairs).md",
     "2. Golang Fundamental Part 2 (Golang Refinements)/20. Function Signatures, Multiple Return Values, and Named Returns.md",
     "1. Golang Fundamental Part 1 (Golang Refinements)/16. Go Workspaces, Modules, and Basic Toolchain Commands.md",
-    "1. Golang Fundamental Part 1 (Golang Refinements)/11. Equality (==) and Inequality (!=) Operators.md",
-    "1. Golang Fundamental Part 1 (Golang Refinements)/12. Logical Operators.md",
-    "1. Golang Fundamental Part 1 (Golang Refinements)/14. Statements and Expressions in Go.md",
-    "1. Golang Fundamental Part 1 (Golang Refinements)/9. Explicit Type Conversions.md",
     "2. Golang Fundamental Part 2 (Golang Refinements)",
     "1. Golang Fundamental Part 1 (Golang Refinements)",
     "0",
@@ -250,8 +252,6 @@
     "BreathWork",
     "Trevor Sawler/Section 4 Improve routing and middleware",
     "Trevor Sawler/Note",
-    "DSA for kid/Golang/3. Map",
-    "DSA for kid/Golang/2. Search",
-    "DSA for kid/Golang/1. Sort"
+    "DSA for kid/Golang/3. Map"
   ]
 }
