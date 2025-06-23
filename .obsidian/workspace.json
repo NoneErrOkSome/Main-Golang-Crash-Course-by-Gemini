@@ -1,58 +1,73 @@
 {
   "main": {
-    "id": "177c7f78867cba36",
+    "id": "f00203c0acdb4021",
     "type": "split",
     "children": [
       {
-        "id": "89627706003cfd21",
+        "id": "a197d29b09611c26",
         "type": "tabs",
         "children": [
           {
-            "id": "58e14e1c0a7447ef",
+            "id": "e0f202b3f6d2a4e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA for kid/Golang/Sort/2. Selection Sort.md",
+                "file": "golangWork/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 1/1. Module 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Selection Sort"
+              "title": "1. Module 1"
             }
           },
           {
-            "id": "a2fa46a64f912e21",
+            "id": "6f491179e8c1519e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
+                "file": "golangWork/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/0.1 Web Development for Primary Kids/0.1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. The Core Problem - Managing Shared Application State"
+              "title": "0.1"
             }
-          }
-        ]
-      },
-      {
-        "id": "da585b93e237aa46",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "41a9ee6d2f3cd06c",
+            "id": "670bb126aacdad1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
-                "mode": "source",
+                "file": "English/There is and are/there is - are.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "there is - are"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9789bc3a57212a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8d09d8cc6e63cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Angular Development Setup on iMac"
             }
           }
         ]
@@ -61,15 +76,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "55bb5cb05d475340",
+    "id": "119fc05fe648f6e8",
     "type": "split",
     "children": [
       {
-        "id": "516346b723b4f6ca",
+        "id": "af3f10e7447ed423",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bd8a8438fcae7a",
+            "id": "2d48ebe7ff0c29b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -82,7 +97,7 @@
             }
           },
           {
-            "id": "a858345c27a9d99c",
+            "id": "8425adb5ab6d5215",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +114,7 @@
             }
           },
           {
-            "id": "5c641203d56f8b50",
+            "id": "a7322f472b11aad1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,23 +127,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5071449279785
+    "width": 300
   },
   "right": {
-    "id": "50c676e32eae7c6c",
+    "id": "a80944f5c4543c6b",
     "type": "split",
     "children": [
       {
-        "id": "c32561161a697925",
+        "id": "8847d7b0c87c347f",
         "type": "tabs",
         "children": [
           {
-            "id": "af4c8d4fbe53c612",
+            "id": "0a066764b46d4cd9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang-Crash-Course-by-Gemini/1. Golang Fundamental Part 1 (Golang Refinements)/6. Working with Strings and Runes.md",
+                "file": "AngularWork/Full Angular Development Setup on iMac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,25 +153,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Working with Strings and Runes"
+              "title": "Backlinks for Full Angular Development Setup on iMac"
             }
           },
           {
-            "id": "60f459de2a281829",
+            "id": "05837f1f02363d7f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0/0..md",
+                "file": "AngularWork/Full Angular Development Setup on iMac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0."
+              "title": "Outgoing links from Full Angular Development Setup on iMac"
             }
           },
           {
-            "id": "adf1206919fcae5d",
+            "id": "2cce2c897ed1d68f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,82 +186,76 @@
             }
           },
           {
-            "id": "f6f82d2200b13b08",
+            "id": "16bb6ef0179777cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang-Crash-Course-by-Gemini/1. Golang Fundamental Part 1 (Golang Refinements)/6. Working with Strings and Runes.md",
+                "file": "AngularWork/Full Angular Development Setup on iMac.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Working with Strings and Runes"
+              "title": "Outline of Full Angular Development Setup on iMac"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 581.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:Insert template": false,
-      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "58e14e1c0a7447ef",
+  "active": "2d48ebe7ff0c29b9",
   "lastOpenFiles": [
-    "DSA for kid/Golang/Sort/1. Bubble Sort.md",
-    "DSA for kid/Golang/Sort/2. Selection Sort.md",
-    "DSA for kid/Golang/Sort",
-    "DSA for kid/Golang/Slice.md",
-    "DSA for kid/Golang/Arrays.md",
-    "DSA for kid/Golang/Big O Notation.md",
-    "DSA for kid/Golang/01 - Array - The Line of Boxes.md",
-    "DSA for kid/Golang/0..md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
-    "DSA for kid/Python",
-    "DSA for kid/Golang",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render/render.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers/handler.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config/config.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/cmd/web/main.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/Untitled.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/10. The Path Forward - The Need for an Application Configuration.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.3 Designing for the Future - Extensibility.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/0.1.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/1. The Rationale for a New Caching Model - From Manual to Automated.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.1 The Trigger - Re-creation on Every Request.md",
-    "Books by Age Group.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/11.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/1.1.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/0.  Two main things before moving on.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/2. The Architectural Shift - A Pre-emptive, Full-Cache Strategy.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.3 Designing for the Future - Extensibility.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
+    "Trevor Sawler/Section 3/30. Building a simple template cache/back to basic/Untitled.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/0",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/9. The Deliberate Flaw - Inefficient Caching on Every Request.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/8. The Two-Stage Render - Using bytes.Buffer for Robust Error Handling.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/7. A Synthesis - The Complete createTemplateCache Workflow.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/6. Dynamically Associating Layouts with ts.ParseGlob.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/5. Path Manipulation - The Role of filepath.Base for Cache Keys.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/4. The Page-First Parsing Strategy and template.New().md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/3. Filesystem Discovery - Using path-filepath.Glob to Find Templates.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas"
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/2. The Architectural Shift - A Pre-emptive, Full-Cache Strategy.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/11.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/10. The Path Forward - The Need for an Application Configuration.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/0.1.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/1. The Rationale for a New Caching Model - From Manual to Automated.md",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache/0.  Two main things before moving on.md",
+    "Trevor Sawler/Section 3/30. Building a simple template cache/render.go.md",
+    "Trevor Sawler/Section 3/30. Building a simple template cache/render package with detailed line-by-line comments.md",
+    "Trevor Sawler/Section 3/30. Building a simple template cache/line-by-line explanation.md",
+    "Trevor Sawler/Section 3/30. Building a simple template cache/back to basic",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration",
+    "Trevor Sawler/Section 3/31. Building a more complex template cache",
+    "Trevor Sawler/Section 3/30. Building a simple template cache",
+    "Trevor Sawler/Section 3/29. Working with Layouts",
+    "Trevor Sawler/Section 3/25. Serving HTML Templates",
+    "Trevor Sawler/Section 3/24. Error checking"
   ]
 }
