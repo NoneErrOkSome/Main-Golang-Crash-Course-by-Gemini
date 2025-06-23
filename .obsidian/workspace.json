@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
+                "file": "DSA for kid/Golang/Sort/2. Selection Sort.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "2. Selection Sort"
             }
           },
           {
@@ -205,8 +205,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a9bd8a8438fcae7a",
+  "active": "58e14e1c0a7447ef",
   "lastOpenFiles": [
+    "DSA for kid/Golang/Sort/1. Bubble Sort.md",
+    "DSA for kid/Golang/Sort/2. Selection Sort.md",
+    "DSA for kid/Golang/Sort",
+    "DSA for kid/Golang/Slice.md",
+    "DSA for kid/Golang/Arrays.md",
+    "DSA for kid/Golang/Big O Notation.md",
+    "DSA for kid/Golang/01 - Array - The Line of Boxes.md",
+    "DSA for kid/Golang/0..md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
+    "DSA for kid/Python",
+    "DSA for kid/Golang",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render/render.go",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers/handler.go",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config/config.go",
@@ -214,10 +225,6 @@
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/templates/home.page.tmpl",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/templates/base.layout.tmpl",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/templates/about.page.tmpl",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/cmd/web",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/Untitled.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/10. The Path Forward - The Need for an Application Configuration.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
@@ -226,7 +233,6 @@
     "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/0.1.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/1. The Rationale for a New Caching Model - From Manual to Automated.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
@@ -237,12 +243,6 @@
     "Trevor Sawler/Section 3/31. Building a more complex template cache/0.  Two main things before moving on.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/2. The Architectural Shift - A Pre-emptive, Full-Cache Strategy.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/3. Filesystem Discovery - Using path-filepath.Glob to Find Templates.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/4. The Page-First Parsing Strategy and template.New().md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/5. Path Manipulation - The Role of filepath.Base for Cache Keys.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/6. Dynamically Associating Layouts with ts.ParseGlob.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/7. A Synthesis - The Complete createTemplateCache Workflow.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/8. The Two-Stage Render - Using bytes.Buffer for Robust Error Handling.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/9. The Deliberate Flaw - Inefficient Caching on Every Request.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
