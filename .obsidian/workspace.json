@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA for kid/Golang/Sort/2. Selection Sort.md",
+                "file": "DSA for kid/Golang/3. Map/The Problem Counting Fruit.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Selection Sort"
+              "title": "The Problem Counting Fruit"
             }
           },
           {
@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
-                "mode": "source",
+                "file": "DSA for kid/Golang/3. Map/The Problem Counting Fruit.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "The Problem Counting Fruit"
             }
           }
         ]
@@ -207,12 +207,26 @@
   },
   "active": "58e14e1c0a7447ef",
   "lastOpenFiles": [
-    "DSA for kid/Golang/Sort/1. Bubble Sort.md",
-    "DSA for kid/Golang/Sort/2. Selection Sort.md",
-    "DSA for kid/Golang/Sort",
+    "DSA for kid/Golang/3. Map/Map.md",
+    "DSA for kid/Golang/3. Map/The Problem Counting Fruit.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
+    "Trevor Sawler/Section 4 Improve routing and middleware/38.1.md",
+    "DSA for kid/Golang/3. Map",
+    "Trevor Sawler/Section 4 Improve routing and middleware/38.md",
+    "DSA for kid/Golang/2. Search/1. Binary Search.md",
+    "Trevor Sawler/Section 4 Improve routing and middleware",
+    "DSA for kid/Golang/2. Search/0.md",
+    "DSA for kid/Golang/0. BigO/Big O Notation.md",
+    "DSA for kid/Golang/0. BigO",
+    "DSA for kid/Golang/1. Sort/1. Bubble Sort.md",
+    "DSA for kid/Golang/2. Search",
+    "Trevor Sawler/Note/What's Templates.md",
+    "Trevor Sawler/Note",
+    "DSA for kid/Golang/1. Sort/2. Selection Sort.md",
+    "DSA for kid/Golang/1. Sort",
     "DSA for kid/Golang/Slice.md",
     "DSA for kid/Golang/Arrays.md",
-    "DSA for kid/Golang/Big O Notation.md",
     "DSA for kid/Golang/01 - Array - The Line of Boxes.md",
     "DSA for kid/Golang/0..md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
@@ -220,29 +234,15 @@
     "DSA for kid/Golang",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render/render.go",
     "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers/handler.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config/config.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/cmd/web/main.go",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/render",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/handlers",
-    "Building Modern Web Application With Go/35. Optimizing our template cache by using an application config/pkg/config",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/Untitled.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/10. The Path Forward - The Need for an Application Configuration.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.3 Designing for the Future - Extensibility.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/0.1.md",
     "Trevor Sawler/Section 3/31. Building a more complex template cache/1. The Rationale for a New Caching Model - From Manual to Automated.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.1 The Trigger - Re-creation on Every Request.md",
-    "Books by Age Group.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/11.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/1.1.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/0.  Two main things before moving on.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/2. The Architectural Shift - A Pre-emptive, Full-Cache Strategy.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/3. Filesystem Discovery - Using path-filepath.Glob to Find Templates.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 4.canvas",
