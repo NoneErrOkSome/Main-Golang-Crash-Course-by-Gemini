@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang in Jupyter notebook/Untitled.md",
-                "mode": "source",
+                "file": "Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 0/Module 0.1. Golang for Demonstration.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Module 0.1. Golang for Demonstration"
             }
           }
         ],
@@ -215,9 +215,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2d48ebe7ff0c29b9",
+  "active": "670bb126aacdad1b",
   "lastOpenFiles": [
+    "Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 0/Module 0. List of contents.md",
+    "Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 0/Module 0.1. Golang for Demonstration.md",
+    "Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 1/Lesson 1.1 Customers and Chefs (Clients & Servers).md",
+    "Golang in Jupyter notebook/Untitled.md",
     "Trevor Sawler/Section 4 Improve routing and middleware/38.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
     "Trevor Sawler/Section 4 Improve routing and middleware/38.1.md",
     "Trevor Sawler/Section 4 Improve routing and middleware",
     "Trevor Sawler/Note/What's Templates.md",
@@ -242,16 +248,10 @@
     "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system",
     "Breathwork  Meditation course  \"Breath is Life\"",
     "Books by Age Group.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.1 The Trigger - Re-creation on Every Request.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
     "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.3 Designing for the Future - Extensibility.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
-    "Trevor Sawler/Section 3/30. Building a simple template cache/back to basic/Untitled.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/9. The Deliberate Flaw - Inefficient Caching on Every Request.md"
+    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md"
   ]
 }
