@@ -25,40 +25,14 @@
             "id": "6f491179e8c1519e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golangWork/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/0.1 Web Development for Primary Kids/0.1.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0.1"
-            }
-          },
-          {
-            "id": "670bb126aacdad1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "BreathWork/3.md",
-=======
-                "file": "Golang in Jupyter notebook/Untitled.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "3"
-=======
-              "title": "Untitled"
->>>>>>> Stashed changes
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "9789bc3a57212a7e",
@@ -225,7 +199,6 @@
   },
   "active": "2d48ebe7ff0c29b9",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/31. Custom Types - Structs.md",
     "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/25. Anonymous Functions and Closures.md",
     "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/27. Reviewing Functions - Best Practices and defer Statement.md",
@@ -262,43 +235,5 @@
     "0",
     "Golang Fundamentals",
     "BreathWork"
-=======
-    "AngularWork/TypeScript",
-    "AngularWork/Full Angular Development Setup on iMac.md",
-    "AngularWork",
-    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/8. Energy breathing session 2.md",
-    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/7. Subtle VS strong breathing practices.md",
-    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system/6. Energy & Consciousness Awakening Breath 1 - `Initiation session`.md",
-    "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system",
-    "Breathwork  Meditation course  \"Breath is Life\"",
-    "Books by Age Group.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.3 The Second Inefficiency - Repetitive CPU Work with Template Parsing.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.2  The First Inefficiency - Slow Disk IO with filepath.Glob.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/1.1 The Trigger - Re-creation on Every Request.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching/0.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/0/0.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.3 Designing for the Future - Extensibility.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.2 Dissecting the Data Type.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/2.1. The Core Problem - Managing Shared Application State.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration/0.md",
-    "Trevor Sawler/Section 3/30. Building a simple template cache/back to basic/Untitled.md",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/2. The Architectural Solution A Central Application Configuration",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/1. Inefficient Per-Request Template Caching",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration/0",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/9. The Deliberate Flaw - Inefficient Caching on Every Request.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/8. The Two-Stage Render - Using bytes.Buffer for Robust Error Handling.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/7. A Synthesis - The Complete createTemplateCache Workflow.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/6. Dynamically Associating Layouts with ts.ParseGlob.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/5. Path Manipulation - The Role of filepath.Base for Cache Keys.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/4. The Page-First Parsing Strategy and template.New().md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/3. Filesystem Discovery - Using path-filepath.Glob to Find Templates.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/2. The Architectural Shift - A Pre-emptive, Full-Cache Strategy.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/11.md",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache/10. The Path Forward - The Need for an Application Configuration.md",
-    "Trevor Sawler/Section 3/30. Building a simple template cache/back to basic",
-    "Trevor Sawler/Section 3/33. Setting application wide configuration",
-    "Trevor Sawler/Section 3/31. Building a more complex template cache",
-    "Trevor Sawler/Section 3/30. Building a simple template cache"
->>>>>>> Stashed changes
   ]
 }
