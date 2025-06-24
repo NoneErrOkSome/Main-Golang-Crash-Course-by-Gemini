@@ -21,7 +21,7 @@ A map works exactly like this. You use a unique key to store and look up a value
 
 The superpower of a map is its incredible speed.
 
-On average, the "slowness rating" for adding, getting, and deleting an item from a map is **`[[O(1) - Instant]]`**!
+On average, the "slowness rating" for adding, getting, and deleting an item from a map is **[[O(1) - Instant]]**!
 
 How does it do this? It uses a clever trick called **hashing**. Imagine a super-smart mail sorter. When you give it a key (like your friend's name, "Alex"), the sorter instantly calculates the exact mail slot (memory location) where Alex's information is stored. It doesn't need to look through any other slots, making it incredibly fast.
 
