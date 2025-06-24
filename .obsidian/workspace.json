@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/17. Tracking Additional Properties.md",
+                "file": "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/18. Handling Text Input.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Tracking Additional Properties"
+              "title": "18. Handling Text Input"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "e0f202b3f6d2a4e2",
   "lastOpenFiles": [
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/16. Tracking Input State.md",
     "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/17. Tracking Additional Properties.md",
+    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/18. Handling Text Input.md",
+    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/16. Tracking Input State.md",
     "AngularWork/Full Angular Development Setup on iMac.md",
     "AngularWork/Khan academy technology.md",
     "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/15.1 Core Angular Template Syntaxes.md",
@@ -210,7 +211,6 @@
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/ansi-colors/README.md",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/acorn/README.md",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/acorn/CHANGELOG.md",
-    "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/abbrev/README.md",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/istanbul-reports/lib/html/assets/favicon.png",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",

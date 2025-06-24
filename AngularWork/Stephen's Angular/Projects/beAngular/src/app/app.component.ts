@@ -8,10 +8,22 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
+  length: number = 0;
   includeLetters: boolean = false;
   includeNumbers: boolean = false;
   includeSymbols: boolean = false;
   password: string = '';
+
+  onChangeLength(event: Event) {
+    // This part had got problem
+    const parsedValue = parseInt((event.target as HTMLInputElement).value);
+    // solution from UDEMY Q&A
+    // 18. Handling Text Input
+
+    if (!isNaN(parsedValue)) {
+      this.length = parsedValue;
+    }
+  }
 
   onChangeUseLetters() {
     this.includeLetters = !this.includeLetters;
