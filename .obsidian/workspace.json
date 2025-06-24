@@ -13,43 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golangWork/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 1/1. Module 1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Module 1"
-            }
-          },
-          {
-            "id": "6f491179e8c1519e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AngularWork/Khan academy technology.md",
+                "file": "Golang/Golang in Jupyter notebook/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Khan academy technology"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9789bc3a57212a7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba8d09d8cc6e63cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -201,10 +170,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6f491179e8c1519e",
+  "active": "2d48ebe7ff0c29b9",
   "lastOpenFiles": [
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/15.1 Core Angular Template Syntaxes.md",
     "AngularWork/Khan academy technology.md",
+    "Golang",
+    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/15.1 Core Angular Template Syntaxes.md",
     "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/16. Tracking Input State.md",
     "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/15. Angular vs JavaScript Design Patterns.md",
     "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/14. Interpolation Syntax.md",
@@ -219,25 +189,23 @@
     "AngularWork/Full Angular Development Setup on iMac.md",
     "AngularWork/Stephen's Angular",
     "BreathWork/3.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/31. Custom Types - Structs.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/25. Anonymous Functions and Closures.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/27. Reviewing Functions - Best Practices and defer Statement.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/28. Collections - Arrays (Fixed-size).md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/23. Panic and Recover.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/22. Error Handling Fundamentals - The error Type.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/38. Concurrency Basics (Goroutines and Channels.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/37. Advanced Loop Patterns and Nested Loops.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/26. Organizing Code Packages and Visibility (Exported-Unexported).md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/24. More on the Standard Library.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/32. Accessing Struct Fields, Slice Elements, and Map Values.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/35. Iteration - The for Loop.md",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/18. Testing in Go.md",
-    "Golang Fundamentals/1. Golang Fundamental Part 1 (Golang Refinements)",
-    "Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)",
-    "Golang Fundamentals/0",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/31. Custom Types - Structs.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/25. Anonymous Functions and Closures.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/27. Reviewing Functions - Best Practices and defer Statement.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/28. Collections - Arrays (Fixed-size).md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/23. Panic and Recover.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/22. Error Handling Fundamentals - The error Type.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/38. Concurrency Basics (Goroutines and Channels.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/37. Advanced Loop Patterns and Nested Loops.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/26. Organizing Code Packages and Visibility (Exported-Unexported).md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/24. More on the Standard Library.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/32. Accessing Struct Fields, Slice Elements, and Map Values.md",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)/35. Iteration - The for Loop.md",
+    "Golang/Golang Fundamentals/1. Golang Fundamental Part 1 (Golang Refinements)",
+    "Golang/Golang Fundamentals/2. Golang Fundamental Part 2 (Golang Refinements)",
+    "Golang/Golang Fundamentals/0",
     "Breathwork  Meditation course  \"Breath is Life\"/Section1 Opening the Breathing system",
     "Breathwork  Meditation course  \"Breath is Life\"",
-    "2. Golang Fundamental Part 2 (Golang Refinements)",
-    "1. Golang Fundamental Part 1 (Golang Refinements)"
+    "2. Golang Fundamental Part 2 (Golang Refinements)"
   ]
 }
