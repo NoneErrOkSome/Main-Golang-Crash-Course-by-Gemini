@@ -37,12 +37,17 @@ export class AppComponent {
     this.includeSymbols = !this.includeSymbols;
   }
 
+  saveData() {
+    console.log('Data saved successfully!');
+  }
+
   onButtonClick() {
-    console.log(`
-    ${this.includeLetters}
-    ${this.includeNumbers}
-    ${this.includeSymbols}
-    `);
+    // console.log(`
+    // ${this.includeLetters}
+    // ${this.includeNumbers}
+    // ${this.includeSymbols}
+    // `);
+
     this.password = '12345678';
   }
 }

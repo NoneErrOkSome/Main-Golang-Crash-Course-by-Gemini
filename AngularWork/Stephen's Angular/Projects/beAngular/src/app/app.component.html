@@ -31,5 +31,9 @@
 
 <div>
   <label>Your Password</label>
-  <input [value]="password" />
+  <input [value]="onButtonClick()" />
+</div>
+
+<div>
+  <button (click)="saveData()">Save data</button>
 </div>
