@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA for kid/Python/Panda and Numpy.md",
+                "file": "DSA for kid/Python/Selection Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Panda and Numpy"
+              "title": "Selection Sort"
             }
           }
         ]
@@ -172,6 +172,10 @@
   },
   "active": "fe4658ec9238929d",
   "lastOpenFiles": [
+    "DSA for kid/Python/Panda and Numpy.md",
+    "breathWork/The Inner Voice.md",
+    "Linux Commands/Untitled.md",
+    "DSA for kid/Python/0. Panda and Numpy.md",
     "DSA for kid/Python/Selection Sort.md",
     "HTML-CSS/1. Best Practices for Flexbox and Grid/1.1.md",
     "HTML-CSS/1. Best Practices for Flexbox and Grid/1. Best Practices for Flexbox and Grid.md",
@@ -199,10 +203,6 @@
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0.1 A Recommended Learning Path.md",
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents",
-    "Golang/The Universal Roadmap to Learning Any Programming Language.md",
-    "DSA for kid/Python/0. Panda and Numpy.md",
-    "breathWork/Untitled.md",
-    "DSA for kid/Python/Panda and Numpy.md",
     "breathWork",
     "Linux Commands",
     "HTML-CSS/1. Best Practices for Flexbox and Grid",
