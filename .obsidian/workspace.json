@@ -11,14 +11,10 @@
             "id": "fe4658ec9238929d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "breathWork/Kumbhaka.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kumbhaka"
+              "title": "New tab"
             }
           }
         ]
@@ -172,9 +168,13 @@
   },
   "active": "fe4658ec9238929d",
   "lastOpenFiles": [
+    "DSA for kid/Python/0. Panda and Numpy.md",
     "breathWork/Untitled.md",
-    "breathWork/Kumbhaka.md",
+    "DSA for kid/Python/Panda and Numpy.md",
+    "breathWork/The Inner Voice.md",
     "Linux Commands/Linux Command Line Essentials for Engineers.md",
+    "Linux Commands/Untitled.md",
+    "breathWork/Kumbhaka.md",
     "breathWork",
     "HTML-CSS/1. Best Practices for Flexbox and Grid/1.1.md",
     "Linux Commands",
@@ -186,7 +186,6 @@
     "HTML-CSS",
     "AngularWork/Full Angular Development Setup on iMac.md",
     "AngularWork/Khan academy technology.md",
-    "DSA for kid/Python/Panda and Numpy.md",
     "DSA for kid/Golang/3. Map/Map.md",
     "AngularWork/TypeScript/1. The Fundamentals - Core Types & Syntax.md",
     "AngularWork/TypeScript/0. A brief guide to typescript.md",
@@ -201,9 +200,6 @@
     "Golang/Web Development for Primary Kids/Module/Module 0/Module.md",
     "Golang/Web Development for Primary Kids/0.2 Golang for Demonstration",
     "Golang/Web Development for Primary Kids/Module/Module 0/Module 0. List of contents.md",
-    "Golang/Golang Fundamentals/The Universal Roadmap to Learning Any Programming Language.md",
-    "Trevor Sawler/Metal Debugger.md",
-    "Books by Age Group.md",
     "Golang/Web Development for Primary Kids",
     "AngularWork/Stephen's Angular/Projects/beAngular/package-lock.json",
     "AngularWork/Stephen's Angular/Projects/beAngular/node_modules/webpack/bin/webpack.js",
