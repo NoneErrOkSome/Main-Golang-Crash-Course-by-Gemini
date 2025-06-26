@@ -14,7 +14,7 @@ Place the following code at the very top of your main CSS file.
 
 CSS
 
-```
+```CSS
 /* 1. Use a more intuitive box-sizing model on all elements. */
 *, *::before, *::after {
   box-sizing: border-box;

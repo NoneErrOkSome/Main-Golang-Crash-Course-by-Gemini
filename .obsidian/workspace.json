@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
+                "file": "HTML-CSS/Essential Default CSS Settings 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. List of contents"
+              "title": "Essential Default CSS Settings 1"
             }
           }
         ]
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
+                "file": "HTML-CSS/Essential Default CSS Settings 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. List of contents"
+              "title": "Backlinks for Essential Default CSS Settings 1"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
+                "file": "HTML-CSS/Essential Default CSS Settings 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0. List of contents"
+              "title": "Outgoing links from Essential Default CSS Settings 1"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
+                "file": "HTML-CSS/Essential Default CSS Settings 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. List of contents"
+              "title": "Outline of Essential Default CSS Settings 1"
             }
           }
         ]
@@ -205,15 +205,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "edb0936dcdc3662b",
+  "active": "4123f2592fbaa502",
   "lastOpenFiles": [
+    "HTML-CSS/Mastering the Center.md",
+    "HTML-CSS/Essential Default CSS Settings 1.md",
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.1 Customers and Chefs (Clients & Servers).md",
+    "HTML-CSS/Understanding and Using rem Units in CSS.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.2 The Secret Ordering Language (HTTP) 🗣️.md",
     "Golang/Web Development for Primary Kids/0.2 Golang for Demonstration/Using Golang to demonstrate.md",
     "Golang/Web Development for Primary Kids/0.2 Golang for Demonstration/Using Golang to demonstrate 2.md",
     "Golang/The Universal Roadmap to Learning Any Programming Language.md",
     "Golang/Fourth and Fifth Pillar.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
     "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 5/5.2 What the Helper Does (Middleware Use Cases).md",
     "Golang/The Basics of Logic and Structure/Untitled.md",
     "Golang/Golang in Jupyter notebook/Untitled.md",
@@ -232,9 +235,6 @@
     "The Core Idea of -Good Load- Design.md",
     "Golang/The Basics of Logic and Structure/1. The Foundational Era (The Basics of Logic and Structure)/1. Variable.md",
     "Golang/The Basics of Logic and Structure/0. The Basics of Logic and Structure/0. The Basics of Logic and Structure.md",
-    "Golang/The Basics of Logic and Structure/4. The Modern Era of Abstraction, Modularity, and Concurrency/39. Goroutines.md",
-    "Golang/The Basics of Logic and Structure/4. The Modern Era of Abstraction, Modularity, and Concurrency/38.  Goroutines and Channels.md",
-    "Golang/The Basics of Logic and Structure/4. The Modern Era of Abstraction, Modularity, and Concurrency/37. Middleware.md",
     "Golang/The Basics of Logic and Structure/4. The Modern Era of Abstraction, Modularity, and Concurrency/Untitled",
     "Golang/The Basics of Logic and Structure/4. The Modern Era of Abstraction, Modularity, and Concurrency",
     "Golang/The Basics of Logic and Structure/3. The Object-Oriented Programming (OOP) Revolution",
