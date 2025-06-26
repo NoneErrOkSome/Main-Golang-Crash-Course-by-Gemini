@@ -42,11 +42,11 @@ export class AppComponent {
   }
 
   onButtonClick() {
-    // console.log(`
-    // ${this.includeLetters}
-    // ${this.includeNumbers}
-    // ${this.includeSymbols}
-    // `);
+    console.log(`
+    ${this.includeLetters}
+    ${this.includeNumbers}
+    ${this.includeSymbols}
+    `);
 
     this.password = '12345678';
   }
