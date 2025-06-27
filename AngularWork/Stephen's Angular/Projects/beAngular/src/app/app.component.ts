@@ -9,16 +9,22 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   length: number = 0;
+  // This property holds the length of the password, initialized to 0.
   includeLetters: boolean = false;
   includeNumbers: boolean = false;
   includeSymbols: boolean = false;
+  // These properties are used to determine whether to include letters, numbers, and symbols in the password.
   password: string = '';
+  // This property holds the generated password, initialized to an empty string.
 
   onChangeLength(event: Event) {
-    // This part had got problem
-    const parsedValue = parseInt((event.target as HTMLInputElement).value);
-    // solution from UDEMY Q&A
-    // 18. Handling Text Input
+    const inputElement = event.target as HTMLInputElement;
+    // Casts the event's target to an HTMLInputElement, so you can access input-specific properties like 'value'.
+    const value = inputElement.value;
+    // Retrieves the current value (as a string) from the input element.
+
+    const parsedValue = parseInt(value);
+    // Converts the string value to an integer using parseInt. If the value isn't a valid number,
 
     if (!isNaN(parsedValue)) {
       this.length = parsedValue;

@@ -1,24 +1,59 @@
 {
   "main": {
-    "id": "f00203c0acdb4021",
+    "id": "cdb3ab96ff96229e",
     "type": "split",
     "children": [
       {
-        "id": "f8a82e271a0f2e81",
+        "id": "c8edb96b0e15f502",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4658ec9238929d",
+            "id": "287ef9b75045425b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.I Prompts/The Master Instructional Design Consultant**.md",
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.8.1. Understanding Data Formats - Plain Text, XML, and JSON"
+            }
+          },
+          {
+            "id": "c13c16b4a5879af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.7.1 Understanding State Management - Cookies and Sessions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Master Instructional Design Consultant**"
+              "title": "1.7.1 Understanding State Management - Cookies and Sessions"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9547901c7383e982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf27bca0f89a923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Summarize my own words"
             }
           }
         ]
@@ -27,15 +62,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "119fc05fe648f6e8",
+    "id": "a50f76c449bdbea5",
     "type": "split",
     "children": [
       {
-        "id": "af3f10e7447ed423",
+        "id": "bdc3760f44b95964",
         "type": "tabs",
         "children": [
           {
-            "id": "2d48ebe7ff0c29b9",
+            "id": "4123f2592fbaa502",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +83,7 @@
             }
           },
           {
-            "id": "8425adb5ab6d5215",
+            "id": "c9f52f67224c061f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +100,7 @@
             }
           },
           {
-            "id": "a7322f472b11aad1",
+            "id": "80a2daa6d314ed82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +113,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5071449279785
   },
   "right": {
-    "id": "a80944f5c4543c6b",
+    "id": "0d0f9fefed79fa39",
     "type": "split",
     "children": [
       {
-        "id": "8847d7b0c87c347f",
+        "id": "cee01641e71c6d19",
         "type": "tabs",
         "children": [
           {
-            "id": "0a066764b46d4cd9",
+            "id": "1ece6dfe8c3d5086",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +139,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Full Angular Development Setup on iMac"
+              "title": "Backlinks for 0. Summarize my own words"
             }
           },
           {
-            "id": "05837f1f02363d7f",
+            "id": "9ba26dbc3030ac83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Full Angular Development Setup on iMac"
+              "title": "Outgoing links from 0. Summarize my own words"
             }
           },
           {
-            "id": "2cce2c897ed1d68f",
+            "id": "c267aa40363c1c27",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +172,18 @@
             }
           },
           {
-            "id": "16bb6ef0179777cf",
+            "id": "c720f7bcb87240a5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Angular Development Setup on iMac"
+              "title": "Outline of 0. Summarize my own words"
             }
           }
         ]
@@ -170,55 +205,55 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "fe4658ec9238929d",
+  "active": "2cf27bca0f89a923",
   "lastOpenFiles": [
-    "A.I Prompts/Gemini Research - Cognitive Load Theory - Foundations, Applications, and Critical Perspectives in Modern Instructional Design.md",
-    "A.I Prompts/Act as a personalized learning coach.md",
-    "A.I Prompts/Your Personalized AI Learning Coach for English Grammar (Powered by Cognitive Load Theory).md",
-    "A.I Prompts/Your Personalized AI Learning Coach for English Vocabulary (Powered by Cognitive Load Theory).md",
-    "A.I Prompts/Untitled.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/Transcript.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/Rewritten Transcript - The Circular Flow of Income.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/CLT - What is Economics.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/Foundations of Economics Vocabulary and Concepts.wav",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 8 Rational Economic Thinking/0.1.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 9 Model Building/0.2. Real-World.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 9 Model Building/0.1.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/4. injections.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/5. Overall Significance.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/1.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/0.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/The Nature of Economics.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/2.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/0.2. Gemini words.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 2 Scarcity, Choice, Opportunity Cost, and Utility/0.1. Transcript.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/0.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/0.1. Transcript.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/0..md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/3. Leakages.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 10 The Circular Flow of Income Model/1. Introduction to the Circular Flow Model.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/6.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 3 The Basic Economic Problem/0.1. transcript.md",
-    "A.I Prompts",
-    "a. Udemy/YouTube/CSS/CSS Grid",
-    "a. Udemy/YouTube/HTML",
-    "a. Udemy/YouTube/CSS",
-    "a. Udemy/YouTube",
-    "a. Udemy/Note",
-    "a. Udemy/Nokolai Schuler/15 Days of SQL - The complete SQL masterclass/diagrams/01/38.drawio",
-    "a. Udemy/Nokolai Schuler/15 Days of SQL - The complete SQL masterclass/diagrams/01/37.drawio",
-    "a. Udemy/Nokolai Schuler/15 Days of SQL - The complete SQL masterclass/diagrams/01/35.drawio",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.7.1 Understanding State Management - Cookies and Sessions.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.7 Your Regular Customer Ticket (Cookies) 🍪.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0.1.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
+    "Golang/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/0. Principles of Web Development & Backend Architecture - A Structured Lesson Plan/0. Principles of Web Development & Backend Architecture - A Structured Lesson Plan.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
+    "Golang/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Module1 - The Foundation - Understanding the Web & HTTP/1.1.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.5.1 Understanding HTTPS and the SSL-TLS Handshake.md",
+    "Golang/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Module1 - The Foundation - Understanding the Web & HTTP",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1. Module 1.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.2. The Order Taker (Routing).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.3. The Expert Chefs (Controllers-Handlers).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.4. Reading the Order Ticket (Working with Request Data).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.5. Plating the Food (Generating Responses).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.6 Your Magical Menu (Web Browsers) 💻.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.6.1. Understanding Web Browsers.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.5 Secret, Whispered Orders (HTTPS) 🔒.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8 Different Kinds of Menus (Data Formats) 📄.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.4.1. non-analogical English.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.4 The Big Phonebook (DNS) 📖.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.3 The Restaurant's Address (URLs).md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.2 The Secret Ordering Language (HTTP) 🗣️.md",
+    "a. Udemy/Krista King/Untitled.md",
+    "a. Udemy/Krista King/0. Prompt.md",
+    "a. Udemy/Krista King",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-USing-Complex-Words-Section8.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Spelling-Section4.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Linking-Words-Section3-Lesson3.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Organisational-Nouns-Section5.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Linking-Words-Section3-Lesson2.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Comment-Adverbs-Section1.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Linking-Words-Section3-Lesson1.pdf",
+    "a. Udemy/IELTS Vocabulary Strategies for IELTS/IELTS-Vocabulary-Strategies-Easily-Confused-Words-Section9.pdf",
+    "a. Udemy/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Primary school student/Module 1/Lesson 1.1 Customers and Chefs (Clients & Servers).md",
+    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "a. Udemy/Mike X Cohen/Master Math By Coding Python/MasterMathByCodingInPython-main/linearAlgebra/einstein.jpg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/logo.png",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/icons.svg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/favicon.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/logo.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/icons.svg",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/favicon.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/icons.svg",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/logo.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/favicon.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-3.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-2.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-1.png",
-    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/Neetcode150/0. Roadmap/0. Roadmap.canvas"
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/logo.png",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/icons.svg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/favicon.png"
   ]
 }
