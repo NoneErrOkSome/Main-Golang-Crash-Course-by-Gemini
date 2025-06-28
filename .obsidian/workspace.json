@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/0. Node.js Under the Hood.md",
-                "mode": "source",
+                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/8. Exploring the Official Documentation and Source Code.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Node.js Under the Hood"
+              "title": "8. Exploring the Official Documentation and Source Code"
             }
           }
         ],
@@ -209,6 +209,18 @@
   },
   "active": "24851f152bf54a7c",
   "lastOpenFiles": [
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/3. Understanding the Event-Driven Model.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/2. The EventEmitter as a JavaScript Design Pattern.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/1. A Basic Hello, EventEmitter Example.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/6. The once() Method.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/7. Deconstructing EventEmitter with a Custom Implementation.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/8. Exploring the Official Documentation and Source Code.md",
+    "a. Udemy/Joseph Heidari/generate document.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/5. Working with Multiple Listeners and Arguments.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/4. How EventEmitter Works Internally.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/0..md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/0. Node.js Under the Hood.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/12. The Main Thread and the Thread Pool.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/11. The Event Loop in Action.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/10. Synchronous vs Asynchronous Code Execution.md",
@@ -221,20 +233,9 @@
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/3. The Role of the JavaScript Engine.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/2. A Deep Dive into Low-Level Programming.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/1. The Hierarchy of Programming Languages.md",
-    "a. Udemy/Joseph Heidari/generate document.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/0. Node.js Under the Hood.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/5. Introduction to the Command Line/0. Introduction to the Command Line.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The V8 Engine - A Detailed Anatomy.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Role of the JavaScript Engine.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Node.js Runtime Architecture.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Main Thread and the Thread Pool.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Hierarchy of Programming Languages.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Event Loop in Action.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Core Concept of Nodejs - Embedding V8.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Synchronous vs Asynchronous Code Execution.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Introducing Libuv - The Asynchronous IO Engine.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Deep Dive into Low-Level Programming",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation",
@@ -244,7 +245,6 @@
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Core Concept of Nodejs - Embedding V8",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Hierarchy of Programming Languages",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Main Thread and the Thread Pool",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Node.js Runtime Architecture",
     "a. Udemy/Mike X Cohen/Master Math By Coding Python/MasterMathByCodingInPython-main/linearAlgebra/einstein.jpg",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/logo.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/icons.svg",
