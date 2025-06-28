@@ -14,15 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood.md",
+                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/1. The Hierarchy of Programming Languages.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Node.js Under the Hood"
+              "title": "1. The Hierarchy of Programming Languages"
+            }
+          },
+          {
+            "id": "24851f152bf54a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/0. Node.js Under the Hood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Node.js Under the Hood"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f8a82e271a0f2e81",
@@ -35,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
-                "mode": "preview",
+                "file": "a. Udemy/Joseph Heidari/generate document.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1. From Ordering to Eating (The Request-Response Lifecycle)"
+              "title": "generate document"
             }
           }
         ]
@@ -192,44 +207,44 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "95592b57312a885b",
+  "active": "24851f152bf54a7c",
   "lastOpenFiles": [
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/5. Introduction to the Command Line.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/3. Setting Up - For Mac Users Only.md",
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/26. Terminology Review.md",
-    "a. Udemy/Joseph Heidari",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts",
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/20. Review on Property Binding.md",
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/19. Generating a Random Password.md",
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/17.1.md",
-    "AngularWork/Stephen's Angular/Section 2 Understand Angular Template Syntax/17. Tracking Additional Properties.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0. List of contents.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 2 Inside the Kitchen - Making Your Food/2.1. From Ordering to Eating (The Request-Response Lifecycle).md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0.1 A Recommended Learning Path.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
-    "A.I Prompts/Gemini Research - Cognitive Load Theory - Foundations, Applications, and Critical Perspectives in Modern Instructional Design.md",
-    "A.I Prompts/The Master Instructional Design Consultant**.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.7.1 Understanding State Management - Cookies and Sessions.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.6.1. Understanding Web Browsers.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.5.1 Understanding HTTPS and the SSL-TLS Handshake.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.4.1. non-analogical English.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note",
-    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0 - List of contents/0.1.md",
-    "Golang/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Module1 - The Foundation - Understanding the Web & HTTP/1.1.md",
-    "Golang/Gemini Principles of Web Development & Backend Architecture - A Structured Lesson Plan/Module1 - The Foundation - Understanding the Web & HTTP",
-    "A.I Prompts/The Master Instructional Design Consultant.md",
-    "A.I Prompts/Act as a personalized learning coach.md",
-    "A.I Prompts/Your Personalized AI Learning Coach for English Grammar (Powered by Cognitive Load Theory).md",
-    "A.I Prompts/Your Personalized AI Learning Coach for English Vocabulary (Powered by Cognitive Load Theory).md",
-    "A.I Prompts/Untitled.md",
-    "a. Udemy/Brad Cartwright/Section 2 Foundation of Economics/Lesson 1 Introduction to the Foundations of Economics/Foundations of Economics Vocabulary and Concepts.wav",
-    "A.I Prompts",
-    "a. Udemy/YouTube/CSS/CSS Grid",
-    "a. Udemy/YouTube/HTML",
-    "a. Udemy/YouTube/CSS",
-    "a. Udemy/YouTube",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/12. The Main Thread and the Thread Pool.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/11. The Event Loop in Action.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/10. Synchronous vs Asynchronous Code Execution.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/9. The Node.js Runtime Architecture.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/8. Introducing Libuv - The Asynchronous IO Engine.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/7. A Brief History of Computing and JavaScript.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/6. A Tour of the Nodejs Source Code and Installation.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/5. The Core Concept of Nodejs - Embedding V8.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/4. The V8 Engine - A Detailed Anatomy.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/3. The Role of the JavaScript Engine.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/2. A Deep Dive into Low-Level Programming.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/1. The Hierarchy of Programming Languages.md",
+    "a. Udemy/Joseph Heidari/generate document.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/0. Node.js Under the Hood.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/5. Introduction to the Command Line/0. Introduction to the Command Line.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The V8 Engine - A Detailed Anatomy.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Role of the JavaScript Engine.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Node.js Runtime Architecture.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Main Thread and the Thread Pool.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Hierarchy of Programming Languages.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Event Loop in Action.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Core Concept of Nodejs - Embedding V8.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Synchronous vs Asynchronous Code Execution.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Introducing Libuv - The Asynchronous IO Engine.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation.md",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Deep Dive into Low-Level Programming",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Introducing Libuv - The Asynchronous IO Engine",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Synchronous vs Asynchronous Code Execution",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Event Loop in Action",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Core Concept of Nodejs - Embedding V8",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Hierarchy of Programming Languages",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Main Thread and the Thread Pool",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Node.js Runtime Architecture",
     "a. Udemy/Mike X Cohen/Master Math By Coding Python/MasterMathByCodingInPython-main/linearAlgebra/einstein.jpg",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/logo.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/icons.svg",
