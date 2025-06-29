@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/BreathWork/Michael Bijker/18. Strong Yogic Breathing session 2 - A body of energy.md",
+                "file": "HTML-CSS/Essential Default CSS Settings 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Strong Yogic Breathing session 2 - A body of energy"
+              "title": "Essential Default CSS Settings 1"
             }
           }
         ],
@@ -209,8 +209,12 @@
   },
   "active": "24851f152bf54a7c",
   "lastOpenFiles": [
-    "a. Udemy/BreathWork/Michael Bijker/17. Energy breathing session 4.md",
+    "HTML-CSS/Essential Default CSS Settings.md",
+    "HTML-CSS/Essential Default CSS Settings 1.md",
+    "a. Udemy/Maximilian Schwarzmüller/Golang/Untitled.md",
     "a. Udemy/BreathWork/Michael Bijker/18. Strong Yogic Breathing session 2 - A body of energy.md",
+    "a. Udemy/Maximilian Schwarzmüller/Golang",
+    "a. Udemy/BreathWork/Michael Bijker/17. Energy breathing session 4.md",
     "a. Udemy/BreathWork/Michael Bijker/15. Strong Yogic breathing.md",
     "a. Udemy/BreathWork/Michael Bijker/16. Yoga Pranayama explained.md",
     "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14.2.md",
@@ -235,16 +239,12 @@
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/8. Exploring the Official Documentation and Source Code.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/3. Understanding the Event-Driven Model.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/2. The EventEmitter as a JavaScript Design Pattern.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/1. A Basic Hello, EventEmitter Example.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/6. The once() Method.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/7. Deconstructing EventEmitter with a Custom Implementation.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Deep Dive into Low-Level Programming",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Introducing Libuv - The Asynchronous IO Engine",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Synchronous vs Asynchronous Code Execution",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Event Loop in Action",
     "a. Udemy/Mike X Cohen/Master Math By Coding Python/MasterMathByCodingInPython-main/linearAlgebra/einstein.jpg",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/logo.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/icons.svg",
