@@ -1,61 +1,59 @@
 {
   "main": {
-    "id": "f00203c0acdb4021",
+    "id": "cdb3ab96ff96229e",
     "type": "split",
     "children": [
       {
-        "id": "b4fdad833dbca21d",
+        "id": "c8edb96b0e15f502",
         "type": "tabs",
-        "dimension": 41.01985559566786,
         "children": [
           {
-            "id": "95592b57312a885b",
+            "id": "287ef9b75045425b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/1. The Hierarchy of Programming Languages.md",
-                "mode": "preview",
+                "file": "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Hierarchy of Programming Languages"
+              "title": "1.8.1. Understanding Data Formats - Plain Text, XML, and JSON"
             }
           },
           {
-            "id": "24851f152bf54a7c",
+            "id": "c13c16b4a5879af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/BreathWork/Michael Bijker/18. Strong Yogic Breathing session 2 - A body of energy.md",
+                "file": "HTML-CSS/Universal aggressive layout style.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Strong Yogic Breathing session 2 - A body of energy"
+              "title": "Universal aggressive layout style"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "f8a82e271a0f2e81",
+        "id": "9547901c7383e982",
         "type": "tabs",
-        "dimension": 58.98014440433213,
         "children": [
           {
-            "id": "fe4658ec9238929d",
+            "id": "2cf27bca0f89a923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/11. Understanding Components & How Content Ends Up On The Screen.md",
-                "mode": "preview",
+                "file": "a. Udemy/Maximilian Schwarzmüller/Golang/String formatting.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Understanding Components & How Content Ends Up On The Screen"
+              "title": "String formatting"
             }
           }
         ]
@@ -64,15 +62,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "119fc05fe648f6e8",
+    "id": "a50f76c449bdbea5",
     "type": "split",
     "children": [
       {
-        "id": "af3f10e7447ed423",
+        "id": "bdc3760f44b95964",
         "type": "tabs",
         "children": [
           {
-            "id": "2d48ebe7ff0c29b9",
+            "id": "4123f2592fbaa502",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +83,7 @@
             }
           },
           {
-            "id": "8425adb5ab6d5215",
+            "id": "c9f52f67224c061f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,7 +100,7 @@
             }
           },
           {
-            "id": "a7322f472b11aad1",
+            "id": "80a2daa6d314ed82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,23 +113,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5071449279785
   },
   "right": {
-    "id": "a80944f5c4543c6b",
+    "id": "0d0f9fefed79fa39",
     "type": "split",
     "children": [
       {
-        "id": "8847d7b0c87c347f",
+        "id": "cee01641e71c6d19",
         "type": "tabs",
         "children": [
           {
-            "id": "0a066764b46d4cd9",
+            "id": "1ece6dfe8c3d5086",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "HTML-CSS/Universal aggressive layout style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,25 +139,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Full Angular Development Setup on iMac"
+              "title": "Backlinks for Universal aggressive layout style"
             }
           },
           {
-            "id": "05837f1f02363d7f",
+            "id": "9ba26dbc3030ac83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "HTML-CSS/Universal aggressive layout style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Full Angular Development Setup on iMac"
+              "title": "Outgoing links from Universal aggressive layout style"
             }
           },
           {
-            "id": "2cce2c897ed1d68f",
+            "id": "c267aa40363c1c27",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -174,18 +172,18 @@
             }
           },
           {
-            "id": "16bb6ef0179777cf",
+            "id": "c720f7bcb87240a5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AngularWork/Full Angular Development Setup on iMac.md",
+                "file": "HTML-CSS/Universal aggressive layout style.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Angular Development Setup on iMac"
+              "title": "Outline of Universal aggressive layout style"
             }
           }
         ]
@@ -207,55 +205,55 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "24851f152bf54a7c",
+  "active": "c13c16b4a5879af2",
   "lastOpenFiles": [
-    "a. Udemy/BreathWork/Michael Bijker/17. Energy breathing session 4.md",
-    "a. Udemy/BreathWork/Michael Bijker/18. Strong Yogic Breathing session 2 - A body of energy.md",
-    "a. Udemy/BreathWork/Michael Bijker/15. Strong Yogic breathing.md",
-    "a. Udemy/BreathWork/Michael Bijker/16. Yoga Pranayama explained.md",
+    "HTML-CSS/A Professional Universal Default CSS 3.md",
+    "HTML-CSS/Universal aggressive layout style.md",
+    "HTML-CSS/1. Best Practices for Flexbox and Grid/Essential 6.md",
+    "HTML-CSS/A Professional minimum default CSS file establishes 1.md",
+    "HTML-CSS/A professional minimum standard for layout in CS 2.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/Module 1 How Our Restaurant (the Internet) Works 🍽️/1.8.1. Understanding Data Formats - Plain Text, XML, and JSON.md",
+    "HTML-CSS/Essential 5.md",
+    "HTML-CSS/Essential 1.md",
+    "HTML-CSS/Essential 3.md",
+    "HTML-CSS/Essential 4.md",
+    "HTML-CSS/Essential 2.md",
+    "a. Udemy/Maximilian Schwarzmüller/CSS Max/Section 7/100/100.md",
+    "a. Udemy/Maximilian Schwarzmüller/CSS Max/Section 7/101.md",
+    "a. Udemy/Maximilian Schwarzmüller/CSS Max/Section 8 Sizes & Units/Untitled.md",
     "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14.2.md",
+    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14.1.md",
+    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14. Configuring the Custom Component.md",
+    "a. Udemy/Maximilian Schwarzmüller/Golang/String formatting.md",
+    "Golang/Web Development for Primary Kids/0.1 Web Development for Primary Kids/Module 0.1/0. Note/0. Summarize my own words.md",
+    "a. Udemy/Maximilian Schwarzmüller/Golang",
+    "a. Udemy/Maximilian Schwarzmüller/Angular Max/1. Getting Started/Create Angular Project.md",
+    "a. Udemy/BreathWork/Michael Bijker/18. Strong Yogic Breathing session 2 - A body of energy.md",
+    "a. Udemy/BreathWork/Michael Bijker/17. Energy breathing session 4.md",
+    "a. Udemy/BreathWork/Michael Bijker/16. Yoga Pranayama explained.md",
+    "a. Udemy/BreathWork/Michael Bijker/15. Strong Yogic breathing.md",
     "a. Udemy/BreathWork/Michael Bijker",
     "a. Udemy/BreathWork",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14.1.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/1. Getting Started/Create Angular Project.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/14. Configuring the Custom Component.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/11. Understanding Components & How Content Ends Up On The Screen.md",
     "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/13. Optional JavaScript Refresher -Classes, Properties and More.md",
-    "a. Udemy/Joseph Heidari/generate document.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/1. Getting Started/2. What Exactly Is Angular.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/10.md",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/1. Getting Started/4. Angular Evolution & Stability.md",
+    "a. Udemy/Maximilian Schwarzmüller/Angular Max/2/11. Understanding Components & How Content Ends Up On The Screen.md",
     "a. Udemy/Maximilian Schwarzmüller/Angular Max/2",
-    "a. Udemy/Maximilian Schwarzmüller/Angular Max/1. Getting Started/3. Why would you use Angular.md",
-    "Golang/The Universal Roadmap to Learning Any Programming Language.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/5. Introduction to the Command Line/2.The Why - The Power of the Command Line over the GUI.md",
-    "Golang/Fourth and Fifth Pillar.md",
-    "HTML-CSS/1. Best Practices for Flexbox and Grid/1. Best Practices for Flexbox and Grid.md",
-    "HTML-CSS/1. Best Practices for Flexbox and Grid/1.1.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/8. Exploring the Official Documentation and Source Code.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/3. Understanding the Event-Driven Model.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/2. The EventEmitter as a JavaScript Design Pattern.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/1. A Basic Hello, EventEmitter Example.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/6. The once() Method.md",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter/7. Deconstructing EventEmitter with a Custom Implementation.md",
     "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/8. Understanding EventEmitter",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Brief History of Computing and JavaScript",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Deep Dive into Low-Level Programming",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/A Tour of the Nodejs Source Code and Installation",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Introducing Libuv - The Asynchronous IO Engine",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/Synchronous vs Asynchronous Code Execution",
-    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood/The Event Loop in Action",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/7. Node.js Under the Hood",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/3. Setting Up - For Mac Users Only",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts/5. Introduction to the Command Line",
+    "a. Udemy/Joseph Heidari/Understanding Node.js Core Concepts",
+    "a. Udemy/Joseph Heidari",
+    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
+    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/Neetcode150/0. Roadmap/0. Roadmap.canvas",
     "a. Udemy/Mike X Cohen/Master Math By Coding Python/MasterMathByCodingInPython-main/linearAlgebra/einstein.jpg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/logo.png",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/icons.svg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/favicon.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/logo.png",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/icons.svg",
     "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/final/src/img/favicon.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/icons.svg",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/logo.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/src/img/favicon.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-3.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-2.png",
-    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-1.png",
-    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/NeetcodeALL/0. Roadmap/0. Roadmap.canvas",
-    "a. Udemy/Dr. Fred Baptiste/NeetCode/Python - Data Structure and Algorithms/Neetcode150/0. Roadmap/0. Roadmap.canvas"
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/logo.png",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/icons.svg",
+    "a. Udemy/Jonas Schmedtmann/The Complete JavaScript Course 2025/files/complete-javascript-course-copied/18-forkify/starter/src/img/favicon.png"
   ]
 }
